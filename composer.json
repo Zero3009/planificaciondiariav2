@@ -12,6 +12,7 @@
         "fideloper/proxy": "^4.0",
         "laravel/framework": "5.7.*",
         "laravel/tinker": "^1.0",
+        "phaza/laravel-postgis": "^3.5",
         "santigarcor/laravel-vuetable": "0.1.*",
         "spatie/laravel-permission": "^2.29"
     },
